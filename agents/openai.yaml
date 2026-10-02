@@ -1,0 +1,4 @@
+interface:
+  display_name: "职业教育课题申报"
+  short_description: "诊断职业教育选题，完善研究设计与申报书，核验证据并模拟评审"
+  default_prompt: "请使用 $xuyeyang-project-proposal 检查我的职业教育课题申报材料，完善问题、研究设计和证据，并给出可实施的修改稿。"
